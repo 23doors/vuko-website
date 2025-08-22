@@ -34,8 +34,13 @@ body {
   color: #334155;
 }
 
+.left a {
+  text-decoration: none;
+}
+
 .left img {
   height: 50px;
+  margin-right: 0.5rem;
 }
 
 .right {
